@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Full Stack Developer in career transition, bringing over 10 years of experience in sales and commercial strategy to the tech world. 🚀<br><br>My background has provided me with a sharp analytical mindset and a strong focus on solving complex problems to deliver real business value through technology. 💡<br><br>Currently, my main focus is on Backend development with Java and the Spring ecosystem (Boot, Security, Data JPA), alongside building modern and responsive interfaces with React. 💻<br><br>Additionally, I leverage my strategic expertise in Digital Marketing and performance ads through Meta and Google Ads to bridge the gap between robust code and data-driven results.<br><br>Sou um desenvolvedor Full Stack em transição de carreira, trazendo comigo a bagagem estratégica de mais de 10 anos de experiência na área comercial e de vendas. Atualmente, foco no desenvolvimento de soluções robustas de backend com Java e Spring Boot, além de criar interfaces modernas utilizando React. Minha trajetória também inclui uma sólida expertise em marketing digital, com foco em performance e anúncios nas plataformas Meta e Google Ads, o que me permite unir rigor técnico a uma visão de negócio voltada para resultados e entrega de valor.</p>
+<p align="left">Sou um profissional em transição para a área de tecnologia, com mais de 10 anos de experiência em vendas e estratégia comercial, agora direcionando minha carreira para desenvolvimento com foco em Python e Inteligência Artificial. 🚀<br><br>Minha trajetória comercial me proporcionou uma visão analítica forte, foco em solução de problemas e entendimento profundo de como a tecnologia pode gerar valor real para o negócio. 💡<br><br>Atualmente, sou estudante de programação, com conhecimentos básicos em desenvolvimento, concentrando meus estudos em Python, fundamentos de backend e aplicações voltadas para IA, automações e análise de dados. 💻<br><br>Além disso, trago uma sólida experiência em marketing digital e performance, atuando com Meta Ads e Google Ads, o que me permite conectar tecnologia, dados e estratégia de negócio, mesmo em fase de aprendizado técnico.</p>
 
 ###
 
@@ -11,19 +11,17 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
 
 ###
